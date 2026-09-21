@@ -1,5 +1,7 @@
 # 🔊 ESP32 Sound Activated Light with LCD
 
+![ESP32 Wi-Fi Scanner]()
+
 A simple ESP32-based sound-controlled lighting system.
 
 The system detects a sound or clap using a sound sensor and toggles an LED every time a new sound is detected.
