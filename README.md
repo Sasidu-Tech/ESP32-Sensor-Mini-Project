@@ -86,6 +86,7 @@ No.| Sensor| Mini Project| Status
 
 📁 Repository Structure
 
+
 ESP32-Sensor-Mini-Projects/
 │
 ├── 01-Sound-Activated-Light/
@@ -108,6 +109,7 @@ ESP32-Sensor-Mini-Projects/
 ├── 05-Gas-Leakage-Detector/
 │
 └── README.md
+
 
 ---
 
