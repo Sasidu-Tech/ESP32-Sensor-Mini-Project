@@ -1,5 +1,7 @@
 📏 ESP32 Ultrasonic Distance Monitor
 
+![ESP32 Mini IDS]()
+
 A simple Ultrasonic Distance Measurement System built using an ESP32, HC-SR04 Ultrasonic Sensor, and 16×2 I2C LCD.
 
 The system measures the distance between the ultrasonic sensor and an object and displays the measured distance on the LCD. The distance is also printed to the Serial Monitor.
