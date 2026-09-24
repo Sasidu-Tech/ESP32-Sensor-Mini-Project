@@ -1,7 +1,7 @@
 🔥 ESP32 MQ-2 Gas Leak Detection System
 
 📸 Project Preview
-![ESP32 MQ-2 Gas Leak Detection](images/mq2-gas-detector.jpg)
+![ESP32 MQ-2 Gas Leak Detection](images/MQ-2%20Gas%20Sensor%20(3).jpeg)
 
 A simple gas leakage detection project using an ESP32, MQ-2 Gas Sensor, and 16x2 I2C LCD Display.
 
