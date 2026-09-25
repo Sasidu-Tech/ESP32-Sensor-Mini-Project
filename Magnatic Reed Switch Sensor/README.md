@@ -1,5 +1,10 @@
 🧲 ESP32 Magnetic Reed Switch Sensor
 
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/grgR9bZh)
+
+
 ![Magnatic Reed Switch Sensor](images/Magnatic%20Read%20Switch%20(5).jpeg)
 
 A simple ESP32-based magnetic reed switch project that detects whether a magnetic object is near the sensor.
