@@ -1,5 +1,9 @@
 # 🔊 ESP32 Sound Activated Light with LCD
 
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gdRVrfDZ)
+
 ![ESP32 Wi-Fi Scanner](images/Sound%20Activated%20Light%20(11).jpeg)
 
 A simple ESP32-based sound-controlled lighting system.
