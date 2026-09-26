@@ -1,7 +1,7 @@
 # 🔐 RFID RC522 + ESP32 + 16×2 I2C LCD
 
 
-![ESP32 Wi-Fi Scanner](images/Smart%20Door%20Lock%20-01.jpg)
+![ESP32 Wi-Fi Scanner](https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/RFID-RC522/images/RFID-RC522%20(1).jpeg)
 
 A simple RFID-based identification system built using an **ESP32**, **RC522 RFID module**, and **16×2 I2C LCD**.
 
