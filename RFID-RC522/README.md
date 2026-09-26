@@ -175,23 +175,6 @@ Add your project images here:
 └── lcd-display.jpg
 ```
 
-Example:
-
-```markdown
-![RFID Wiring Diagram](images/wiring-diagram.png)
-```
-
----
-
-## 🎥 Demo
-
-Add your project demonstration video/link here:
-
-```text
-Demo Video: YOUR_DEMO_LINK
-```
-
----
 
 ## 🎯 Learning Outcomes
 
