@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="(https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Raindrop%20Module/images/Raindrop%20module%20(3).jpeg)
+      <img src="(https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Raindrop%20Module/images/Raindrop%20module%20(3).jpeg
 " width="400">
     </td>
     <td align="center">
