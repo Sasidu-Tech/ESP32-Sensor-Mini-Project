@@ -1,6 +1,16 @@
 # 👆 ESP32 Human Body Touch Sensor
 
-![ESP32 Human Body Touch Sensor](images/Human%20Body%20Tuch%20Sensor%20(3).jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Human%20Body%20Tuch%20Sensor%20(3).jpg" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Human%20Body%20Tuch%20Sensor/images/Huamn%20Body%20Tuch%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
+
 
 A simple touch detection project using an **ESP32** and **TTP223 Capacitive Touch Sensor**.
 
