@@ -1,5 +1,10 @@
 # 💧 Water Level Sensor + ESP32 + 16×2 I2C LCD
 
+
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/HxH13JMusZU?si=lPXGIh5Gui4r5Cs-)
+
 <table>
   <tr>
     <td align="center">
