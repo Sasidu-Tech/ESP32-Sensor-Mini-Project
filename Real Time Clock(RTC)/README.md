@@ -3,8 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="(images/RTC%20(4).jpeg)
-" width="400">
+      <img src="images/RTC%20(4).jpeg" width="400">
     </td>
     <td align="center">
       <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Real%20Time%20Clock(RTC)/images/RTC%20Module.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
