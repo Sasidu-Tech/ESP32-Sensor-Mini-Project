@@ -1,4 +1,4 @@
-🔴 IR Sensor Module with ESP32 and 16x2 I2C LCD
+## 🔴 IR Sensor Module with ESP32 and 16x2 I2C LCD
 
 ## 🎥 Demo
 
