@@ -1,5 +1,9 @@
 # ⏰ ESP32 DS3231 RTC Clock with LCD
 
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/-2NkQfeLuWo?si=z-1ghG_c50qlXL0E)
+
 <table>
   <tr>
     <td align="center">
