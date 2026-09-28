@@ -1,5 +1,9 @@
 # 🌧️ Rain Drop Sensor + ESP32 + 16×2 I2C LCD
 
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/c82I7-UM4E0?si=xhpdvZVdddvtZNGs)
+
 <table>
   <tr>
     <td align="center">
