@@ -7,8 +7,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="(images/Sound%20Activated%20Light%20(11).jpeg)
-" width="400">
+      <img src="images/Sound%20Activated%20Light%20(11).jpeg" width="400">
     </td>
     <td align="center">
       <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Sound%20Activated%20Light/images/Big%20Sound%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
