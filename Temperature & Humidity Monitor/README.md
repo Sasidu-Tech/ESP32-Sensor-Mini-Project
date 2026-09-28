@@ -1,6 +1,20 @@
-🌡️ ESP32 DHT11 + I2C LCD Temperature & Humidity Monitor
+## 🌡️ ESP32 DHT11 + I2C LCD Temperature & Humidity Monitor
 
-![ESP32 Wi-Fi Scanner](images/Temp%20%26%20Hum%20(3).jpeg)
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/A1Je_Gec8wQ?si=b_kqtUw3QIzPakqQ)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Temp%20%26%20Hum%20(3).jpeg" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Temperature%20%26%20Humidity%20Monitor/images/DHT11%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
+
 
 A simple beginner-friendly ESP32 project that reads temperature and humidity using a DHT11 sensor and displays the values on a 16x2 I2C LCD.
 
