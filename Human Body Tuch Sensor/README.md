@@ -1,5 +1,9 @@
 # 👆 ESP32 Human Body Touch Sensor
 
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/gki9HDgL2SQ?si=qqG_pet19wKrgWXN)
+
 <table>
   <tr>
     <td align="center">
