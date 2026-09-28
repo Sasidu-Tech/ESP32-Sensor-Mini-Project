@@ -1,4 +1,8 @@
-📏 ESP32 Ultrasonic Distance Monitor
+#📏 ESP32 Ultrasonic Distance Monitor
+
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/qGWlx44BsPk?si=vYSf_r4G9mguRKWe)
 
 <table>
   <tr>
