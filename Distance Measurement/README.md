@@ -1,6 +1,15 @@
 📏 ESP32 Ultrasonic Distance Monitor
 
-![Distance Measurement](images/Ultrasonic%20Sensor%20(1).jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Distance%20Measurement/images/Ultrasonic%20Sensor%20(3).jpeg" alt="ESP32 Wi-Fi Scanner" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Distance%20Measurement/images/Ultrasonic%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
 
 A simple Ultrasonic Distance Measurement System built using an ESP32, HC-SR04 Ultrasonic Sensor, and 16×2 I2C LCD.
 
