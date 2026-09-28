@@ -1,8 +1,20 @@
 # 🔐 RFID RC522 + ESP32 + 16×2 I2C LCD
 
 
-![ESP32 Wi-Fi Scanner](https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/RFID-RC522/images/RFID-RC522%20(1).jpeg)
+## 🎥 Demo
 
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/duelzZfBj9I?si=Pz4t1uR6qz6QI5Rr)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/RFID-RC522/images/RFID-RC522%20(1).jpeg" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/RFID-RC522/images/RFID-RC522.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
 A simple RFID-based identification system built using an **ESP32**, **RC522 RFID module**, and **16×2 I2C LCD**.
 
 When an RFID card or tag is scanned, the system detects the card and displays its **UID** on the LCD and Serial Monitor.
