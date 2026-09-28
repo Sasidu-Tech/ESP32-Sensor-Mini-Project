@@ -1,6 +1,17 @@
 # ⏰ ESP32 DS3231 RTC Clock with LCD
 
-![Real-Time-Clock(RTC)](images/RTC%20(4).jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="(images/RTC%20(4).jpeg)
+" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Real%20Time%20Clock(RTC)/images/RTC%20Module.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
+
 
 A simple Real-Time Clock (RTC) project using an **ESP32**, **DS3231 RTC Module**, and **16x2 I2C LCD Display**.
 
