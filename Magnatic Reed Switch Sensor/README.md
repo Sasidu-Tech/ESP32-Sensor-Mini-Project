@@ -7,13 +7,14 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/grgR9bZh" width="400">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Magnatic%20Reed%20Switch%20Sensor/images/Magnatic%20Read%20Switch%20(2).jpeg" width="400">
     </td>
     <td align="center">
       <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Magnatic%20Reed%20Switch%20Sensor/images/Reed%20Switch%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
     </td>
   </tr>
 </table>
+
 A simple ESP32-based magnetic reed switch project that detects whether a magnetic object is near the sensor.
 
 The project can be used for simple door, window, cabinet, and security monitoring applications.
