@@ -1,4 +1,8 @@
-🔥 ESP32 MQ-2 Gas Leak Detection System
+# 🔥 ESP32 MQ-2 Gas Leak Detection System
+
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/urdEf32tn-I?si=pmmI-NCTu9h2U5QN)
 
 📸 Project Preview
 <table>
