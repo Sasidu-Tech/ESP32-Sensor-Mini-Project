@@ -1,6 +1,15 @@
 🔥 ESP32 Flame & Fire Detection System
 
-![Flame Sensor](images/Flame%20Sensor%20(3).jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/Flame%20Sensor%20(3).jpeg" alt="ESP32 Wi-Fi Scanner" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Flame%20Sensor/images/Flame%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
 
 An ESP32-based flame detection system using a **Flame Sensor** and **16x2 I2C LCD Display**.
 
