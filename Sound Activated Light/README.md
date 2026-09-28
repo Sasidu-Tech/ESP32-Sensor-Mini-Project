@@ -1,10 +1,20 @@
-# 🔊 ESP32 Sound Activated Light with LCD
+## 🔊 ESP32 Sound Activated Light with LCD
 
 ## 🎥 Demo
 
-[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gdRVrfDZ)
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/7adY4YwyAic?si=viWYV7RKaWjWO0sY)
 
-![ESP32 Wi-Fi Scanner](images/Sound%20Activated%20Light%20(11).jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="(images/Sound%20Activated%20Light%20(11).jpeg)
+" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Sound%20Activated%20Light/images/Big%20Sound%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
 
 A simple ESP32-based sound-controlled lighting system.
 
