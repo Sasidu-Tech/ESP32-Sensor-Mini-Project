@@ -1,4 +1,4 @@
-#📏 ESP32 Ultrasonic Distance Monitor
+# 📏 ESP32 Ultrasonic Distance Monitor
 
 ## 🎥 Demo
 
