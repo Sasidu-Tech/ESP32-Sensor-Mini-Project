@@ -1,6 +1,10 @@
 📡 IR Remote Receiver Module with ESP32 and 16x2 I2C LCD
 
 
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/Q4VB2j5S4r4?si=umDgWxa10fF6UTV-)
+
 <table>
   <tr>
     <td align="center">
@@ -14,9 +18,7 @@
 
 
 
-## 🎥 Demo
 
-[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/Q4VB2j5S4r4?si=umDgWxa10fF6UTV-)
 
 A simple IR Remote Receiver project using an ESP32, IR receiver module, and a 16×2 I2C LCD. The system receives infrared signals from a remote control and allows the ESP32 to process the received commands.
 
