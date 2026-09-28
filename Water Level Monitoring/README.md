@@ -1,6 +1,18 @@
 # 💧 Water Level Sensor + ESP32 + 16×2 I2C LCD
 
-![ESP32 Wi-Fi Scanner](https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Water%20Level%20Monitoring/images/Rain%20Sensor%20module%20(10).jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Water%20Level%20Monitoring/images/Rain%20Sensor%20module%20(10).jpeg" width="400">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sasidu-Tech/ESP32-Sensor-Mini-Project/blob/main/Water%20Level%20Monitoring/images/Water%20Level%20Sensor.jpeg" alt="ESP32 Wi-Fi Scanner Demo" width="400">
+    </td>
+  </tr>
+</table>
+
+
+
 
 A simple **Water Level Monitoring System** built using an **ESP32**, **Water Level Sensor**, and **16×2 I2C LCD**.
 
