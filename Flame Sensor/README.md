@@ -1,4 +1,9 @@
-🔥 ESP32 Flame & Fire Detection System
+# 🔥 ESP32 Flame & Fire Detection System
+
+## 🎥 Demo
+
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/spohshvGz8U?si=YLcEa7am6ReEEM6H)
+
 
 <table>
   <tr>
