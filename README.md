@@ -1,4 +1,4 @@
-🔌 ESP32 Sensor Mini Projects
+## 🔌 ESP32 Sensor Mini Projects
 
 A collection of simple and practical ESP32 sensor-based mini projects developed to learn sensor interfacing, GPIO control, analog/digital signals, and basic IoT concepts.
 
